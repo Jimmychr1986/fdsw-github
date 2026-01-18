@@ -2,10 +2,11 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-/* Hero Section */
 
-#Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+/* Postal Section */
+
+#postal {
+  background-image: url("../img/postal.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
